@@ -15,7 +15,7 @@ This repository is designed to walk a user through the process of using MongoDB 
 - How to connect to MongoDB using python
 - Using MongoDB Atlas
 
-<h3>Using Python to Create Collections</h3>
+<b>Using Python to Create Collections</b>
 (mongodb_insert.ipynb)
 - Example code for importing Google Places API data into MongoDB
 - Explanations of each portion of the code and its function
@@ -27,8 +27,7 @@ This repository is designed to walk a user through the process of using MongoDB 
 
 <b>Just the Code</b>
 (mongod_insert.py)
-
-- The code from mongodb_insert in a python file, in case you're not into notebooks.
+- Code from mongodb_insert in a python file, in case you're not into notebooks.
 
 ## Steps: 
 1. View mongodb_explained and set up MongoDB on your computer.
