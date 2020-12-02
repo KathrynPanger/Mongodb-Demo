@@ -17,16 +17,19 @@ This repository is designed to walk a user through the process of using MongoDB 
 
 <h2>Using Python to Create Collections</h2>
 (mongodb_insert.ipynb)
+
 - Example code for importing Google Places API data into MongoDB
 - Explanations of each portion of the code and its function
 
 <h2>Practice</h2>
 (practice.ipynb)
+
 - Incomplete code that can be filled in by a user to do their own API pulls
 - Guidence on what data to include in each cell
 
 <h2>Just the Code</h2>
 (mongod_insert.py)
+
 - The code from mongodb_insert in a python file, in case you're not into notebooks.
 
 ##Steps: 
