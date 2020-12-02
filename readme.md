@@ -32,8 +32,7 @@ This repository is designed to walk a user through the process of using MongoDB 
 
 - The code from mongodb_insert in a python file, in case you're not into notebooks.
 
-##Steps: 
-
+## Steps: 
 1. View mongodb_explained and set up MongoDB on your computer.
 2. View mongodb_insert.ipynb and follow the directions therein for each cell.
 3. View practice.ipynb and fill in the commented out portions with your own code.
