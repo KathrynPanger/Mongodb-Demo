@@ -1,6 +1,6 @@
 # MongoDB Demo: Creating a Database from an API pull
----
-## Summary
+
+## Summary:
 This repository is designed to walk a user through the process of using MongoDB to pull and refer to JSON data. This readme will 1) Present a list of files which will be used in this demonstration, 2) Provide discrete steps that a user can follow in navigating these files for their learning, and 3) Provide snippets of sample code that the user can complete on their own in order to replicate the process with their own JSON data.
 
 ## The Files:
