@@ -20,10 +20,6 @@ This repository is designed to walk a user through the process of using MongoDB 
 - Example code for importing Google Places API data into MongoDB
 - Explanations of each portion of the code and its function
 
-<b>Practice</b>
-(practice.ipynb)
-- Incomplete code that can be filled in by a user to do their own API pulls
-- Guidence on what data to include in each cell
 
 <b>Just the Code</b>
 (mongod_insert.py)
