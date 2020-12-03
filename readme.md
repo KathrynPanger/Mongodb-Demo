@@ -29,10 +29,17 @@ This repository is designed to walk a user through the process of using MongoDB 
 (mongod_insert.py)
 - Code from mongodb_insert in a python file, in case you're not into notebooks.
 
-<b>Resources Folder>
+<b>Resources Folder</b>
 (contains zip_codes.csv)
 - Folder contains a table of zip codes and their respective latitude and longitude coordinates
 - Used for mongodb_insert.(ipynb/py) activity
+
+<b>Extras Folder</b>
+(contains plus_pygeocode.ipynb)
+(contains sf_zips.csv)
+- Folder contains a longer version of mongodb_insert using pygeocode to append latitude and longitude variables to zip code table.
+- Folder contains original zip codes file.
+- Not needed for the activity unless you want to know how to use pygeocode.
 
 ## Steps: 
 1. View mongodb_explained and set up MongoDB on your computer.
