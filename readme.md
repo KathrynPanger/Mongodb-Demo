@@ -5,21 +5,20 @@ This repository is designed to walk a user through the process of using MongoDB 
 
 ## The Files:
 
-<b>What is MongoDB and why use it?</b>
-(mongodb_explained.pptx)
+<b>What is MongoDB and why use it: </b>
+[MongoDB Slideshow](https://docs.google.com/presentation/d/1CmRUm_FBiCf2ZhWJj3Chx8bdpD3bLOhqSQd9uQJBPQQ/edit?usp=sharing ).
+
+
 - The nature and use of MongoDB
 - Relational vs Non-Relational Databases
 - How to set up MongoDB and MongoDB Compass
 - How to insert records directly into MongoDB
-- How to query data once inserted
-- How to connect to MongoDB using python
 - Using MongoDB Atlas
 
 <b>Using Python to Create Collections</b>
 (mongodb_insert.ipynb)
-- Example code for importing Google Places API data into MongoDB
+- Example code for importing Google Places API data and external JSON data into MongoDB
 - Explanations of each portion of the code and its function
-
 
 <b>Just the Code</b>
 (mongod_insert.py)
